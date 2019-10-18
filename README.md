@@ -1,2 +1,2 @@
-# recipe-book
-A collection of recipes
+# Recipes
+A collection of recipes from family, friends, and around the web
